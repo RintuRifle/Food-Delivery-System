@@ -12,7 +12,7 @@
 
 //Defining some constants, which are about to be used latter in this program.
 #define FILENAME "users.csv"
-#define API_KEY "6a4fd3b7d6a3438baf035312dd660a08" // The api for maps
+#define API_KEY "Your API key" // The api for maps
 #define FOLDER_PATH "/mnt/c/Users/Akshit Kumar Tiwari/python files/Programs/Tech_Test/Restdata" // Upload data here
 #define MAX_CUISINES 10
 #define MAX_CART 20
