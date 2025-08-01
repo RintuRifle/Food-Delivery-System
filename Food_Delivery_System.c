@@ -1,3 +1,8 @@
+/*
+Kindly refer to the important comments for necessary lines.
+*/
+
+
 //All necessary modules.
 #include <stdio.h>
 #include <string.h>
